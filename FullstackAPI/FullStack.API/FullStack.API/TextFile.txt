@@ -1,0 +1,3 @@
+﻿For Migration:
+Add-Migration "NameOfMigration"
+Update-Database
